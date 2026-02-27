@@ -1,5 +1,5 @@
 # 💫 About Me:
-Exploring Machine Learning and Data Science.<br>Open to contribute in Machine Learning and Full Stack projects.<br>You can assist me in Implementating Machine concepts<br>Currently Learning: Advanced Python and Problem Solving<br>We can have a discussion over Artificial Intelligence and Emerging Technologies<br>Fun fact about me: Dedication and Procrastination somehow find balance inside of me.
+Exploring Machine Learning and Data Science.<br>Open to contribute in Machine Learning and Full Stack projects.<br>You can assist me in Implementating Machine concepts.<br>Currently Learning: Advanced Python and Problem Solving.<br>We can have a discussion over Artificial Intelligence and Emerging Technologies.<br>Fun fact about me: Dedication and Procrastination somehow find balance inside of me.
 
 
 ## 🌐 Socials:
